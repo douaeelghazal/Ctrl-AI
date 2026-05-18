@@ -6,7 +6,7 @@ This repository contains notebooks created during the **HackAI** hackathon, wher
 
 Each notebook is a self-contained learning exercise covering a different area of modern AI, organized into thematic modules:
 
-### 📚 Learning Modules
+### Learning Modules
 
 **01 - Fundamentals** — Core model training concepts
 - `transformer_training_basics.ipynb` — Training transformers from scratch
