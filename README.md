@@ -35,6 +35,17 @@ Each notebook is a self-contained learning exercise covering a different area of
 - `text_to_speech_tts.ipynb` — Text-to-speech
 - `web_scraping.ipynb` — Web scraping for AI datasets
 
+**08 - Audio** — Speech and language processing
+- `Ctrl+AI_ASR_usage.ipynb` — Automatic Speech Recognition
+- `Ctrl+AI_de_language_lid.ipynb` — Language identification and detection
+- `stt_training_asr.ipynb` — Training speech-to-text models
+- Includes audio assets and language models
+
+**09 - Advanced Techniques** — Specialized fine-tuning and data work
+- `Copie_de_SFT_fine_tuning_LORA_QLORA.ipynb` — LoRA and QLoRA fine-tuning
+- `data_curation.ipynb` — Data preparation and curation
+- Includes language resources and datasets
+
 ## Context
 
-These notebooks were built as **mini-challenges** to learn AI concepts progressively — going from foundational model training all the way to deployment, multimodal models, and privacy-preserving techniques.
+These notebooks were built as **mini-challenges** to learn AI concepts progressively — going from foundational model training all the way to deployment, multimodal models, privacy-preserving techniques, and specialized audio/language processing.
